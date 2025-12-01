@@ -1,11 +1,11 @@
 <img width="100%" src="https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif">
 
 <h1 align="center">Hi 👋, I'm Tahir Rafiq</h1>
-<h3 align="center">A passionate web developer from Pakistan</h3>
+<h3 align="center">A passionate software developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahirrafiqg&label=Profile%20views&color=0e75b6&style=flat" alt="tahirrafiqg" /> </p>
 
-- 🔭 I’m currently working on **E-Commerce Website**
+- 🔭 I’m currently working on **React Native Full Stack Project**
 
 - 🌱 I’m currently learning **Next.js | Node.js**
 
@@ -13,9 +13,9 @@
 
 - 🤝 I’m looking for help with **Networking**
 
-- 👨‍💻 All of my projects are available at [https://tahirrafiq.carrd.co/](https://tahirrafiq.carrd.co/)
+- 👨‍💻 All of my projects are available at [https://mtahirthedev.vercel.app/](https://mtahirthedev.vercel.app/)
 
-- 💬 Ask me about **react | Bootstrap | redux | Tailwind**
+- 💬 Ask me about **react | ReactNative | redux | Tailwind**
 
 - 📫 How to reach me **mtahirthedev@gmail.com**
 
