@@ -78,6 +78,3 @@ Always up for interesting projects, collaborations and a good tech chat.
 Reach out at **[mtahirthedev@gmail.com](mailto:mtahirthedev@gmail.com)** or check out **[my portfolio](https://www.mtahir.tech/)**.
 
 </div>
-
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=111111&height=120&section=footer" />
