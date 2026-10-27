@@ -60,7 +60,7 @@ lines = [
     title("- Contact"),
     row("Email", "mtahirthedev@gmail.com"),
     row("Portfolio", "mtahir.tech"),
-    row("LinkedIn", "tahir-rafiq-60595931a"),
+    row("LinkedIn", "m-tahir-309513342"),
     row("Location", "Lahore, Pakistan"),
     "",
     title("- GitHub Stats"),
